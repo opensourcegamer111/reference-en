@@ -43,12 +43,12 @@ The code shows how to use `void`.
 
 void setup()
 {
-  // ...
+  // CODE REPEATS ONCE
 }
 
 void loop()
 {
-  // ...
+  // CODE REPEATS FORVEVER
 }
 ----
 
